@@ -1,0 +1,10 @@
+.room__capacity {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.room {
+    position: relative;
+    background-color: green;
+}
